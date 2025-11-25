@@ -25,3 +25,5 @@ console.log("Answer for question 16", counter.increment()); // 6
 console.log("Answer for question 16", counter.reset()); // 5
 console.log("Answer for question 16", counter.decrement()); // 4
   
+
+//---------------------------------End-------------------------------------------//
